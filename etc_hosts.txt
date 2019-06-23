@@ -1,0 +1,3 @@
+/etc/hosts
+#############
+10.0.0.4 dsvmvm.phdfsguaoloerevz2ncsjbuo3e.cx.internal.cloudapp.net
