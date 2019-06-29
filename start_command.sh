@@ -1,3 +1,4 @@
+cd $SPARK_HOME/sbin/
 sudo ./start-master.sh
 cat /dsvm/tools/spark/spark-2.3.2/logs/spark-root-org.apache.spark.deploy.master.Master-1-dsvmvm.out
 ping dsvmvm.phdfsguaoloerevz2ncsjbuo3e.cx.internal.cloudapp.net
